@@ -232,7 +232,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "error",
@@ -298,8 +298,8 @@
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
-      "intersheets_ref_short": false,
-      "intersheets_ref_show": false,
+      "intersheets_ref_short": true,
+      "intersheets_ref_show": true,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
       "label_size_ratio": 0.375,
@@ -313,7 +313,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "../Documentacion/PDF/SCH/",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
     "spice_model_current_sheet_as_root": true,
@@ -330,6 +330,14 @@
     [
       "e93d5772-2a4a-4e62-9fe9-f443f30f8fbe",
       "Power-protection"
+    ],
+    [
+      "643f01b0-8690-4bc0-8f35-7f81339c2f8e",
+      "Sensor de temperatura"
+    ],
+    [
+      "7c36d44d-7b49-40cc-ad4d-0d4b8574c38b",
+      "Filtro programable"
     ]
   ],
   "text_variables": {}

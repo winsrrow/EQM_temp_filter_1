@@ -1,0 +1,17 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 9e7aa51b-4a40-4a55-a63f-48e7f62b3627)
+
+  (paper "A4")
+
+  (title_block
+    (title "EQM Lab PCB - 1")
+    (date "2023-04-14")
+    (rev "V0.1-Alpha")
+    (company "JSM - ETSE-UV")
+  )
+
+  (lib_symbols
+  )
+
+)
