@@ -1299,7 +1299,7 @@
     (uuid 01aa6382-37ac-4300-bacd-4638eee845bb)
   )
   (polyline (pts (xy 25.4 139.7) (xy 266.7 139.7))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 02838761-3cf7-4ebe-b1c4-067b618f577b)
   )
 
@@ -1372,7 +1372,7 @@
     (uuid 19918992-814d-4147-8bf6-3c763ea3c791)
   )
   (polyline (pts (xy 152.4 190.5) (xy 152.4 139.7))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 19ea06fe-ff00-463a-a979-9305ae77d98b)
   )
 
@@ -1453,7 +1453,7 @@
     (uuid 49468f39-e291-4803-bcc0-687696c092fa)
   )
   (polyline (pts (xy 114.3 139.7) (xy 114.3 190.5))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 497e9628-4d48-482c-9737-54b5b33fb6c5)
   )
 
@@ -1474,7 +1474,7 @@
     (uuid 4b352626-c4cd-4a38-a506-3387b1083d76)
   )
   (polyline (pts (xy 152.4 25.4) (xy 152.4 139.7))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 4cfeda94-cbc8-4f9f-9818-7862df4b1185)
   )
 
@@ -1547,7 +1547,7 @@
     (uuid 769eae58-f59b-4243-9f92-60b4f5bf086a)
   )
   (polyline (pts (xy 266.7 139.7) (xy 266.7 25.4))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 7733f094-3bef-4eb6-9657-b872d0c7c6a3)
   )
 
@@ -1629,7 +1629,7 @@
     (uuid 8d3353c9-c1a2-470a-ab43-76450904ad2e)
   )
   (polyline (pts (xy 25.4 139.7) (xy 25.4 190.5))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid 8e21f57d-60ff-4dbd-9f06-f1421a3559a1)
   )
 
@@ -1803,7 +1803,7 @@
     (uuid d83025a9-6164-42c3-b983-afef202a710d)
   )
   (polyline (pts (xy 25.4 25.4) (xy 25.4 139.7))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid dac5a774-8a5a-49c6-bb6a-1b865aaa7e6e)
   )
 
@@ -1868,7 +1868,7 @@
     (uuid f1c5a1d5-465b-4963-a714-f08e4cd22266)
   )
   (polyline (pts (xy 25.4 25.4) (xy 266.7 25.4))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid f322d693-afa3-4058-9383-7bf77e21a6ad)
   )
 
@@ -1885,7 +1885,7 @@
     (uuid f4c69b97-e683-425c-9963-c4b8ce6dc055)
   )
   (polyline (pts (xy 25.4 190.5) (xy 152.4 190.5))
-    (stroke (width 0) (type default))
+    (stroke (width 0) (type dash))
     (uuid f4c73094-a2be-4ec1-9fa3-0331c50bd815)
   )
 
