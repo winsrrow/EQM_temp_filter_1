@@ -423,7 +423,7 @@
     (effects (font (size 0.75 0.75)) (justify left bottom))
     (uuid acabe895-e86e-4975-a5fe-6af9afe99238)
   )
-  (text "2:\n	Este bloque es contiene un circuito para el sensado de temperatura y su\n	adaptación de la señal para poder variar la sensibilidad del sistema.\n	Contiene 3 pares de divisores de tensión fijos, así como zocalos para \n	2 pares de divisores de divisores de tensión con resistencias PTH.\n	También dispone de jumpers para la selección de los divisores a emplear,\n	estos se pueden conectar simultaneamente permitiendo un mayor rango de \n	posibles combinaciones sin necesidad de hacer uso de las resistencias PTH.\n\n	Los valores se indicarán como 10K pero se dejan a elección del usuario a \n	la hora del montaje"
+  (text "2:\n	Este bloque es contiene un circuito para el sensado de temperatura y su\n	adaptación de la señal para poder variar la sensibilidad del sistema.\n	Contiene 3 pares de divisores de tensión fijos, así como zocalos para \n	1 par de divisores de divisores de tensión con resistencias PTH.\n	También dispone de jumpers para la selección de los divisores a emplear,\n	estos se pueden conectar simultaneamente permitiendo un mayor rango de \n	posibles combinaciones sin necesidad de hacer uso de las resistencias PTH.\n\n	Los valores se indicarán como 10K pero se dejan a elección del usuario a \n	la hora del montaje"
     (at 29.21 125.73 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid b3124afa-c45f-47f5-93a6-acd47b55eacb)
