@@ -1,4 +1,7 @@
 # EQM_temp_filter_1
+ 
+ ### Proyecto actualmente paralizado
+ 
  Proyecto para la actualización de la placa del laboratorio de sistemas y equipos de medida.
 
 Este proyecto se compone de dos circuitos que servirán para la base de los ejercicios de laboratorio.
